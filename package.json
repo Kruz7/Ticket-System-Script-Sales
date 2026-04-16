@@ -1,0 +1,17 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.6.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.1.1",
+    "i": "^0.3.7"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN",
+  "clientId": "CLİENT ID",
+  "guildId": "GUİLD ID",
+  "staffRoleId": "STAFF ROLE ID",
+  "ticketCategoryId": "TİCKET CATEGORY ID",
+  "ticketLogChannelId": "TİCKET LOG CHANNEL ID",
+  "iban": "PAYMENT METHOD"
+}
